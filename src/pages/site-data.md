@@ -27,7 +27,7 @@ colors:
   headerBackground: "#4f3c8b"
 topNav:
   - title: Buying Guides
-    link: /buying-guides/
+    link: /buyers-guide/
     child:
       - title: Chainsaws
         link: /chainsaws/
