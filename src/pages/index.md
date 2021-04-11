@@ -1,9 +1,8 @@
 ---
 templateKey: index-page
 static: false
-seoTitle: Techno Clutch - Computers & Gaming Made Easy
-seoDescription: Techno Clutch is a Brand where we review hundreds of computer
-  gadgets weekly and publish only the worthy products. We post unbiased reviews
-  only.
+seoTitle: Power Tools DIY - Power Tools Reviewed
+seoDescription: Power Tools DIY Is all about finding the best Tools and Machines
+  for people out there that struggle with finding one.
 categories: []
 ---
