@@ -6,4 +6,5 @@ slug: power-tools
 description: Get The Best Power Tools Product
 seoTitle: Power Tools Category
 seoDescription: Get The Best Power Tools Product
+parent: c50f49a0-8008-4b8c-876e-0ff6dcb122be
 ---
