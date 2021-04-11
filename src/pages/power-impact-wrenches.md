@@ -6,4 +6,5 @@ slug: power-impact-wrenches
 description: Get The Best Power Impact WrenchesProduct
 seoTitle: Power Impact Wrenches Category
 seoDescription: Get The Best Power Impact Wrenches Product
+parent: c50f49a0-8008-4b8c-876e-0ff6dcb122be
 ---
