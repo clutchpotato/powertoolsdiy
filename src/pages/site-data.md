@@ -7,11 +7,11 @@ faviconSmall: /img/power-tools-diy-16-x-16.png
 faviconLarge: /img/power-tools-diy-32-x-32.png
 disqus: techno-clutch
 facebook: https://www.facebook.com/powertoolsdiy
-youtube: https://powertoolsdiy.com/#
+youtube: "#"
 twitter: https://twitter.com/PowerTools_DIY
-number: ""
-dmca: false
-dmcaLink: "#"
+number: https://www.pinterest.com/powertoolsdiy/
+dmca: true
+dmcaLink: https://www.dmca.com/Protection/Status.aspx?ID=3c786c8b-6b24-4dbc-8a13-525930edcd4a
 cookies:
   enabled: true
   message: This website uses cookies to enhance the user experience.
@@ -26,8 +26,8 @@ colors:
   blockBackground: "#fff"
   headerBackground: "#4f3c8b"
 topNav:
-  - title: Buying Guides
-    link: "#"
+  - title: Categories
+    link: /#
     child:
       - title: Chainsaws
         link: /chainsaws/
