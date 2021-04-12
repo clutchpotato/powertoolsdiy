@@ -4,6 +4,6 @@ templateKey: category-page
 title: Guides
 slug: guides
 description: Learning guides
-seoTitle: lkasjdlksadj
-seoDescription: kljldksajdlkasjd
+seoTitle: Learning Guide's Category - Power Tools DIY
+seoDescription: Learn About the Power Tools in Our Learning Guide's Category.
 ---
